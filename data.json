@@ -3,6 +3,7 @@
         {
             "id": 0,
             "nom": "Rick y Morty",
+            "teCapitols": true,
             "data": "2013-12-02",
             "actors": "Justin Roiland,Chris Parnell,Spencer Grammer",
             "directors": "J. Michael Mendel, Kenny Micka",
@@ -17,6 +18,7 @@
         {
             "id": 1,
             "nom": "Black Mirror",
+            "teCapitols": true,
             "data": "2018-12-28",
             "actors": "Bryce Dallas Howard, Daniel Kaluuya, Jon Hamm",
             "directors": "Otto Bathurst, Euros Lyn, Owen Harris, Carl Tibbetts, Bryn Higgins",
@@ -31,6 +33,7 @@
         {
             "id": 2,
             "nom": "A Clockwork Orange",
+            "teCapitols": false,
             "data": "1972-01-13",
             "actors": "Malcolm McDowell, Patrick Magee, Adrienne Corri, Miriam Karlin",
             "directors": "Stanley Kubrick",
@@ -45,6 +48,7 @@
         {
             "id": 3,
             "nom": "Space jam ",
+            "teCapitols": false,
             "data": "1997-02-03",
             "actors": "Michael Jordan,Bill Murray,Wayne Knight, Theresa Randle ",
             "directors": "Joe Pytka",
@@ -59,6 +63,7 @@
         {
             "id": 4,
             "nom": "The Purge",
+            "teCapitols": false,
             "data": "2013-07-12",
             "actors": "Ethan Hawke,Lena Headey,Max Burkholder,Adelaide Kane,Edwin Hodge",
             "directors": "James DeMonaco",
@@ -73,6 +78,7 @@
         {
             "id": 5,
             "nom": "IT",
+            "teCapitols": false,
             "data": "2017-09-08",
             "actors": "Bill Skarsgård, Jaeden Lieberher",
             "directors": "Andres Muschietti",
@@ -87,6 +93,7 @@
         {
             "id": 6,
             "nom": "Planet Terror",
+            "teCapitols": false,
             "data": "2007-04-06",
             "actors": "Rose McGowan, Freddy Rodriguez, Michael Biehn, Jeff Fahey, Josh Brolin, Marley Shelton, Stacy Ferguson, Bruce Willis",
             "directors": "Robert Rodriguez",
@@ -101,6 +108,7 @@
         {
             "id": 7,
             "nom": "The Big Bang Theory",
+            "teCapitols": true,
             "data": "2007-09-24",
             "actors": "Johnny Galecki, Jim Parsons, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Mayim Bialik, Melissa Rauch",
             "directors": "Mark Cendrowski",
@@ -115,6 +123,7 @@
         {
             "id": 8,
             "nom": "Titanic 2",
+            "teCapitols": false,
             "data": "2010-08-24",
             "actors": "Shane Van Dyke, Marie Westbrook, Bruce Davison, Brooke Burns",
             "directors": "Shane Van Dyke",
@@ -129,6 +138,7 @@
         {
             "id": 9,
             "nom": "Ronaldo",
+            "teCapitols": false,
             "data": "2015-11-09",
             "actors": "Cristiano Ronaldo",
             "directors": "Cristiano Ronaldo",
@@ -143,6 +153,7 @@
         {
             "id": 10,
             "nom": "Sinister",
+            "teCapitols": false,
             "data": "2012-03-11",
             "actors": "Ethan Hawke, Juliet Rylance",
             "directors": "Scott Derrickson",
@@ -157,6 +168,7 @@
         {
             "id": 11,
             "nom": "Shin chan en busca de las bolas perdidas",
+            "teCapitols": false,
             "data": "1997-04-19",
             "actors": "Shin-Chan,Misae Nohara,Hiroshi Nohara,Himawari Nohara,Nevado",
             "directors": "Keiichi Hara",
@@ -171,6 +183,7 @@
         {
             "id": 12,
             "nom": "Deadpool",
+            "teCapitols": false,
             "data": "2016-01-21",
             "actors": "Ryan Reynolds,Morena Baccarin ,Ed Skrein,Gina Carano,T. J. Miller ,Brianna Hildebrand ,Stefan Kapicic ,Leslie Uggams ",
             "directors": "Tim Miller",
@@ -185,6 +198,7 @@
         {
             "id": 13,
             "nom": "Doce hombres sin piedad",
+            "teCapitols": false,
             "data": "1958-02-03",
             "actors": "Henry Fonda, Lee J.Cobb, Joseph Sweeney, Jack Klugman, Ed Begley, Jack Warden",
             "directors": "Sidney Lumet",
@@ -199,6 +213,7 @@
         {
             "id": 14,
             "nom": "The Hobbit: An Unexpected Journey",
+            "teCapitols": false,
             "data": "2012-12-14",
             "actors": "Ian McKellen, Martin Freeman, Richard Armitage, James Nesbitt, Ken Stott, Cate Blanchett, Ian Holm, Christopher Lee, Hugo Weaving, Elijah Wood, Andy Serkis",
             "directors": "Peter Jackson",
@@ -213,6 +228,7 @@
         {
             "id": 15,
             "nom": "How I Met your Mother",
+            "teCapitols": true,
             "data": "2005-09-19",
             "actors": "Josh Radnor, Jason Segel, Cobie Smulders, Neil Patrick Harris, Alyson Hannigan, Cristin Milioti",
             "directors": "Pamela Fryman, Rob Greenberg, Michael Shea, Neil Patrick Harris",
@@ -227,6 +243,7 @@
         {
             "id": 16,
             "nom": "Doraemon y el dinosaurio de Nobita",
+            "teCapitols": false,
             "data": "2007-08-31",
             "actors": "Doraemon, Nobita,Gegant,Shisuka,Suneo",
             "directors": "Ayumu Watanabe",
@@ -241,6 +258,7 @@
         {
             "id": 17,
             "nom": "House of Cards",
+            "teCapitols": true,
             "data": "2016-02-01",
             "actors": "Robin Wright,Michael Kelly,Diane Lane",
             "directors": "Beau Willimon",
@@ -255,6 +273,7 @@
         {
             "id": 18,
             "nom": "Mr. Robot",
+            "teCapitols": true,
             "data": "2019-12-22",
             "actors": "Rami Malek,Christian Slater,Portia Doubleday,Carly Chaikin,Martin Wallström",
             "directors": "Sam Esmail",
